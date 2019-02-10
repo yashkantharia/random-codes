@@ -7,10 +7,10 @@ class node:
 
 #make a tree like the example tree given below
 #        1
-#     /      \
-#   2        3
-# /  \      /  \
-#4   5   6    7
+#     /     \
+#    2       3
+#  /  \     /  \
+# 4    5   6    7
 root = node(1)
 root.left = node(2)
 root.right = node(3)
